@@ -1,0 +1,19 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "Projeto base",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "base",
+    "javascript"
+  ],
+  "author": "Vitória de Lázaro Floriani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
